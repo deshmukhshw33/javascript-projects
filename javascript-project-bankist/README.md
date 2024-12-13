@@ -27,11 +27,11 @@ To use the Bankist App on your local machine, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/bankist-app.git
+   git clone https://github.com/shwetadd33/javascript-projects.git
    ```
 
 2. **Open the Project**
-   Navigate to the project folder and open `index.html` in your browser to launch the app.
+   Navigate to the project folder __/javascript-project-bankist__ and open `index.html` in your browser to launch the app.
 
 ## User Profiles
 
