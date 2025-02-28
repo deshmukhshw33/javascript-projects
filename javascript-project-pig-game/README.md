@@ -2,6 +2,7 @@
 
 ## Description
 The Pig Game is a virtual dice game built using HTML, CSS, and JavaScript. This game involves two players who take turns rolling a dice to accumulate points, with the goal of reaching 100 points to win. The game incorporates user interface interactions for rolling the dice, holding the score, and resetting the game.
+[Live Demo](https://dicefight.netlify.app/)
 
 ## Features
 - **Two Players**: Player 1 and Player 2 take turns.
