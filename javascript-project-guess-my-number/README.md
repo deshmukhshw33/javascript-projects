@@ -1,7 +1,8 @@
 # Number Guessing Game
 
 ## Description
-A simple number guessing game where the player tries to guess a randomly generated number within a specified range. The game provides feedback to the player, indicating if their guess is too high or too low, and counts the number of guesses.
+A simple number guessing game where the player tries to guess a randomly generated number within a specified range. The game provides feedback to the player, indicating if their guess is too high or too low, and counts the number of guesses. 
+[Live Demo](https://guessint.netlify.app/)
 
 ## Prerequisites
 - Basic knowledge of HTML & CSS
