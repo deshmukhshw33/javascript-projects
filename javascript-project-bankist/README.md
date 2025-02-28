@@ -43,7 +43,7 @@ Below are pre-configured user profiles to explore the app:
 | Name                  | Username | PIN  |
 |-----------------------|----------|------|
 | Shweta Deshmukh       | `sd`     | 1111 |
-| Jessica Davis         | `jd`     | 2222 |
+| Kishori Ram           | `km`     | 2222 |
 
 > **Tip**: Log in using one of the profiles above to explore all features.
 
