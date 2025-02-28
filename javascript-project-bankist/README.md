@@ -1,6 +1,9 @@
  # Bankist App
 
-Bankist App is a modern and interactive JavaScript-based banking application. Designed as part of a learning project, it offers users the ability to manage accounts and perform core banking operations in a secure and user-friendly environment.
+Bankist App is a modern and interactive JavaScript-based banking application. Designed as part of a learning project, it offers users the ability to manage accounts and perform core banking operations in a secure and user-friendly environment. 
+
+You can find [LIVE DEMO](https://bankingui.netlify.app/) of an application here.
+
 
 ![Bankist App Screenshot](images/bankist-app-screenshot.png "Bankist App Homepage")
 
@@ -46,4 +49,4 @@ Below are pre-configured user profiles to explore the app:
 
 ## Acknowledgments
 
-This project was inspired and developed as part of the **Jonas Schmedtmann's JavaScript Course**, providing practical experience in building functional web applications.
+This project was inspired and developed as part of the **Jonas Schmedtmann's JavaScript Course on Udemy**, providing practical experience in building functional web applications.
